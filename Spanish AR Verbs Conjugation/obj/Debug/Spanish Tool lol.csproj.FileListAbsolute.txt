@@ -1,0 +1,17 @@
+C:\Users\CrystalCode\source\repos\Spanish Tool lol\bin\Debug\SpanishTool.exe.config
+C:\Users\CrystalCode\source\repos\Spanish Tool lol\bin\Debug\SpanishTool.exe
+C:\Users\CrystalCode\source\repos\Spanish Tool lol\bin\Debug\SpanishTool.pdb
+C:\Users\CrystalCode\source\repos\Spanish Tool lol\bin\Debug\System.Net.Http.dll
+C:\Users\CrystalCode\source\repos\Spanish Tool lol\bin\Debug\System.Net.Http.xml
+C:\Users\CrystalCode\source\repos\Spanish Tool lol\obj\Debug\Spanish Tool lol.csprojAssemblyReference.cache
+C:\Users\CrystalCode\source\repos\Spanish Tool lol\obj\Debug\Spanish Tool lol.csproj.CopyComplete
+C:\Users\CrystalCode\source\repos\Spanish Tool lol\obj\Debug\SpanishTool.exe
+C:\Users\CrystalCode\source\repos\Spanish Tool lol\obj\Debug\SpanishTool.pdb
+C:\Users\CrystalCode\Documents\GitHub\ToolsForHomework\Spanish AR Verbs Conjugation\bin\Debug\SpanishTool.exe.config
+C:\Users\CrystalCode\Documents\GitHub\ToolsForHomework\Spanish AR Verbs Conjugation\bin\Debug\SpanishTool.exe
+C:\Users\CrystalCode\Documents\GitHub\ToolsForHomework\Spanish AR Verbs Conjugation\bin\Debug\SpanishTool.pdb
+C:\Users\CrystalCode\Documents\GitHub\ToolsForHomework\Spanish AR Verbs Conjugation\bin\Debug\System.Net.Http.dll
+C:\Users\CrystalCode\Documents\GitHub\ToolsForHomework\Spanish AR Verbs Conjugation\bin\Debug\System.Net.Http.xml
+C:\Users\CrystalCode\Documents\GitHub\ToolsForHomework\Spanish AR Verbs Conjugation\obj\Debug\Spanish Tool lol.csproj.CopyComplete
+C:\Users\CrystalCode\Documents\GitHub\ToolsForHomework\Spanish AR Verbs Conjugation\obj\Debug\SpanishTool.exe
+C:\Users\CrystalCode\Documents\GitHub\ToolsForHomework\Spanish AR Verbs Conjugation\obj\Debug\SpanishTool.pdb
