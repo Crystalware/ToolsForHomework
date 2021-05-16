@@ -1,4 +1,0 @@
-C:\Users\CrystalCode\Documents\GitHub\ToolsForHomework\Binary To Decimal Calculator\bin\Debug\Binary To Decimal Calculator.exe
-C:\Users\CrystalCode\Documents\GitHub\ToolsForHomework\Binary To Decimal Calculator\bin\Debug\Binary To Decimal Calculator.pdb
-C:\Users\CrystalCode\Documents\GitHub\ToolsForHomework\Binary To Decimal Calculator\obj\Debug\Binary To Decimal Calculator.exe
-C:\Users\CrystalCode\Documents\GitHub\ToolsForHomework\Binary To Decimal Calculator\obj\Debug\Binary To Decimal Calculator.pdb

@@ -1,8 +1,0 @@
-C:\Users\CrystalCode\Documents\GitHub\ToolsForHomework\Spanish AR Verbs Conjugation\bin\x64\Release\SpanishTool.exe.config
-C:\Users\CrystalCode\Documents\GitHub\ToolsForHomework\Spanish AR Verbs Conjugation\bin\x64\Release\SpanishTool.exe
-C:\Users\CrystalCode\Documents\GitHub\ToolsForHomework\Spanish AR Verbs Conjugation\bin\x64\Release\SpanishTool.pdb
-C:\Users\CrystalCode\Documents\GitHub\ToolsForHomework\Spanish AR Verbs Conjugation\bin\x64\Release\System.Net.Http.dll
-C:\Users\CrystalCode\Documents\GitHub\ToolsForHomework\Spanish AR Verbs Conjugation\bin\x64\Release\System.Net.Http.xml
-C:\Users\CrystalCode\Documents\GitHub\ToolsForHomework\Spanish AR Verbs Conjugation\obj\x64\Release\Spanish Tool lol.csproj.CopyComplete
-C:\Users\CrystalCode\Documents\GitHub\ToolsForHomework\Spanish AR Verbs Conjugation\obj\x64\Release\SpanishTool.exe
-C:\Users\CrystalCode\Documents\GitHub\ToolsForHomework\Spanish AR Verbs Conjugation\obj\x64\Release\SpanishTool.pdb
